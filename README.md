@@ -4,4 +4,4 @@ Contexte du projet Vous devez mettre en place, pour votre équipe, une infrastru
 
 - Une base de données PostgreSQL avec RDS,
 - Y importer les données proposées dans le lien ci-dessous
-[!image](/images/base_de_donnees)
+[!image](/images/base_de_donnees.png)
