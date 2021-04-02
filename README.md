@@ -14,7 +14,7 @@ Contexte du projet Vous devez mettre en place, pour votre équipe, une infrastru
 - Ajouter du code Python test qui se connecte à la base et exécute au moins 2 requêtes (au choix dans celles proposées dans les exercices)
 
 `Les fichiers utilisé pour cette tâches sont les suivans` :
-- [api]('/API/api.py')
-- [config]('/API/config.py')
-- [aws.ini]('/API/aws.ini')
+- [api](/API/api.py)
+- [config](/API/config.py)
+- [aws.ini](/API/aws.ini)
 
