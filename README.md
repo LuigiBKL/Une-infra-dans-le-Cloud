@@ -40,5 +40,5 @@ Une fois nos fichiers dépose on aura plus qu'à nous situer dans notre dossier 
 
 Tout ceci terminé nous n'avons plus qu'à nous connecter en tampant dans la barre d'adresse de notre navigateur `l'adresse ip de notre seveur EC2:le port attribuer à notre fastapi`
 
-![image](fastapi.png)
+![image](/images/fastapi.png)
 
