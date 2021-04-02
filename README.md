@@ -28,7 +28,7 @@ Afin de faciliter les choses et pour la sécurité des données on a décidé d'
 
 Tous les fichiers necessaires à ce projet seront déposé sur notre machine virtuelle (AWS) à l'aide d'une extension appelée `remote ssh` de `vs code` 
 
-![image](/images/remote_ssh_vscode_png)
+![image](/images/remote_ssh_vscode.png)
 
 Une fois nos fichiers dépose on aura plus qu'à nous situer dans notre dossier de travail avec la commande `cd `de l'invite de commande et ensuite lancer la commande `docker-compose up -d`
 
