@@ -8,3 +8,13 @@ Contexte du projet Vous devez mettre en place, pour votre équipe, une infrastru
 ![image](/images/base_de_donnees.png)
 
 - Mettre en place un serveur avec EC2 pour accueillir l'appli Python
+
+![image](/images/EC2.png)
+
+- Ajouter du code Python test qui se connecte à la base et exécute au moins 2 requêtes (au choix dans celles proposées dans les exercices)
+
+`Les fichiers utilisé pour cette tâches sont les suivans` :
+- [api]('/Api/api.py')
+- [config]('/Api/config.py')
+- [aws.ini]('/Api/aws.ini')
+
