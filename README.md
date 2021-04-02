@@ -9,7 +9,7 @@ Contexte du projet Vous devez mettre en place, pour votre équipe, une infrastru
 
 - Mettre en place un serveur avec EC2 pour accueillir l'appli Python
 
-![image](/images/EC2.png)
+![image](/images/EC2.jpg)
 
 - Ajouter du code Python test qui se connecte à la base et exécute au moins 2 requêtes (au choix dans celles proposées dans les exercices)
 
@@ -28,7 +28,7 @@ Afin de faciliter les choses et pour la sécurité des données on a décidé d'
 
 Tous les fichiers necessaires à ce projet seront déposé sur notre machine virtuelle (AWS) à l'aide d'une extension appelée `remote ssh` de `vs code` 
 
-![image](/images/remote_ssh_vscode.png)
+![image](/images/remote_ssh_vscode.jpg)
 
 Une fois nos fichiers dépose on aura plus qu'à nous situer dans notre dossier de travail avec la commande `cd `de l'invite de commande et ensuite lancer la commande `docker-compose up -d`
 
