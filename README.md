@@ -38,7 +38,7 @@ Une fois nos fichiers dépose on aura plus qu'à nous situer dans notre dossier 
 ![image](/images/regles_entrantes.png)
 
 
-Tout ceci terminé nous n'avons plus qu'à nous connecter en tampant dans la barre d'adresse de notre navigateur `l'adresse ip de notre seveur EC2:le port attribuer à notre fastapi`
+Tout ceci terminé nous n'avons plus qu'à nous connecter en écrivant dans la barre d'adresse de notre navigateur `l'adresse ip de notre seveur EC2:le port attribuer à notre fastapi`
 
 ![image](/images/fastapi.png)
 
